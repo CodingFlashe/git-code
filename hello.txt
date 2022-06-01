@@ -2,7 +2,6 @@ hello git
 hello git
 hello git
 hello git
-<<<<<<< HEAD
 now is morning
 now is morning
 now is morning
