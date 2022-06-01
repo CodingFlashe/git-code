@@ -2,8 +2,6 @@ hello git
 hello git
 hello git
 hello git
-now is midnight
-now is midnight
-now is midnight
-now is midnight
-now is midnight
+now is morning
+now is morning
+now is morning
